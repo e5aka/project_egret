@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="chatSkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="17451b3b088" ></w:Config>
+	<e:Image source="bg2_jpg" left="0" right="0" top="0" bottom="0"/>
+	<e:Label text="Chatting Room" x="162" y="62" anchorOffsetX="0" width="340" anchorOffsetY="0" height="62" size="50" fontFamily="Arial" textColor="0x0f0909"/>
+	<e:Label text="Online :" x="47" y="127" anchorOffsetX="0" width="151" anchorOffsetY="0" height="38" size="40" fontFamily="Arial"/>
+	<e:Label id="lb_online" text="0" x="198" y="127" size="40" fontFamily="Arial" textColor="0x54eac0"/>
+	<e:Scroller id="scr_msg" width="541" height="705" x="52" y="180" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Group id="group_msg">
+			<e:layout>
+				<e:VerticalLayout/>
+			</e:layout>
+		</e:Group>
+	</e:Scroller>
+	<e:EditableText id="input_msg" width="380" height="84" text="please input something" x="52" y="942" anchorOffsetX="0" anchorOffsetY="0" textColor="0x0f0e0e" size="30" fontFamily="Arial" backgroundColor="0xd6d0dd" background="true" verticalAlign="middle"/>
+	<e:Button id="btn_ok" label="SEND" x="476" y="942" anchorOffsetX="0" width="109" anchorOffsetY="0" height="84"/>
+</e:Skin>

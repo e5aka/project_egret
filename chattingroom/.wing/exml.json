@@ -1,0 +1,37 @@
+{
+    "17451b3b088": {
+        "path": "..\\resource\\eui_skins\\chat.ts",
+        "class": "chat",
+        "parentPath": "",
+        "guideLinesEnabled": false,
+        "backgroundX": 0,
+        "backgroundY": 0,
+        "backgroundWidth": -1,
+        "backgroundHeight": -1,
+        "useBgImage": true,
+        "useBgColor": true,
+        "backgroundAlpha": 100,
+        "guideLines": [
+            {
+                "type": "h",
+                "pos": 1161
+            }
+        ]
+    },
+    "17451b3fc9c": {
+        "path": "..\\resource\\eui_skins\\listmsg.ts",
+        "class": "listmsg",
+        "parentPath": "",
+        "guideLines": [
+            {
+                "type": "v",
+                "pos": -278
+            }
+        ]
+    },
+    "174520c2aa9": {
+        "path": "..\\resource\\eui_skins\\mtest2.ts",
+        "class": "mtest2",
+        "parentPath": ""
+    }
+}

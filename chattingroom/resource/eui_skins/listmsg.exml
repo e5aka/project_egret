@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="listmsgSkin" width="399" height="30" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="17451b3fc9c" ></w:Config>
+	<e:Label text="{data.name}" x="0" y="0"/>
+	<e:Label text="{data.msg}" x="121" y="0" size="30" fontFamily="Arial" textColor="0x85f2f7"/>
+</e:Skin>
