@@ -1,0 +1,31 @@
+{
+	"engineVersion": "5.2.10",
+	"compilerVersion": "5.2.10",
+	"template": {},
+	"target": {
+		"current": "web"
+	},
+	"modules": [
+		{
+			"name": "egret"
+		},
+		{
+			"path": "../../libs/res",
+			"name": "res"
+		},
+		{
+			"name": "socket"
+		},
+		{
+			"name": "dragonBones"
+		},
+		{
+			"path": "../../libs/TRain",
+			"name": "TRain"
+		},
+		{
+			"path": "../../libs/client",
+			"name": "client"
+		}
+	]
+}
